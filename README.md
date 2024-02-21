@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Olá, eu sou Lucas Medeiros!
 
-<!--
-**lucasrmed/lucasrmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre Mim
+- Profissional front-end com 3 anos de experiência na carreira.
+- Especializado em React, React Native e Angular.
 
-Here are some ideas to get you started:
+- ## 🚀 Projetos Destacados
+- [**Projeto 1**](https://github.com/lucasrmed/ProjetoChat): Este projeto é um chat desenvolvido em React, permitindo que os usuários conversem em tempo real. Uma funcionalidade adicional implementada é o sistema de login, que proporciona uma experiência personalizada aos usuários.
+- [**Projeto 2**](https://github.com/lucasrmed/nextjs-arquitetura): Este projeto representa uma arquitetura front-end moderna desenvolvida com Next.js e organizada como um mono-repo. A abordagem de mono-repo permite uma gestão eficiente de múltiplos projetos relacionados em um único repositório, proporcionando maior reusabilidade e manutenção simplificada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## 🌟 Tecnologias
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-blueviolet?style=flat-square&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=white)
+
+## 📈 Estatísticas do GitHub
+[![Estatísticas do GitHub de Lucas Medeiros](https://github-readme-stats.vercel.app/api?username=lucasrmed&show_icons=true&count_private=true&theme=dark)](https://github.com/lucasrmed)
