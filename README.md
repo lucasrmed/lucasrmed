@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Lucas Medeiros!
 
 ## 👨‍💻 Sobre Mim
-- Profissional front-end com 3 anos de experiência na carreira.
+- Profissional front-end com mais de 3 anos de experiência na carreira.
 - Especializado em React, React Native e Angular.
 
 - ## 🚀 Projetos Destacados
