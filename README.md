@@ -13,5 +13,3 @@
 ![React Native](https://img.shields.io/badge/-React_Native-blueviolet?style=flat-square&logo=react&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=white)
 
-## 📈 Estatísticas do GitHub
-[![Estatísticas do GitHub de Lucas Medeiros](https://github-readme-stats.vercel.app/api?username=lucasrmed&show_icons=true&count_private=true&theme=dark)](https://github.com/lucasrmed)
